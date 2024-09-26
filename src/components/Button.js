@@ -12,9 +12,9 @@
 
 import React from 'react';
 import './Button.css';
-import { Link } from 'react-router-dom';                     
+import { Link } from 'react-router-dom';                      //   before changes
 
-const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];         // thirs op
+const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
 
 const SIZES = ['btn--medium', 'btn--large'];
 
