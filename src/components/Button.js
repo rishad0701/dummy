@@ -20,7 +20,7 @@ const SIZES = ['btn--medium', 'btn--large'];
 
 export const Button = ({
   children,
-  type,
+  type,                                                                             // second try 
   onClick,
   buttonStyle,
   buttonSize
